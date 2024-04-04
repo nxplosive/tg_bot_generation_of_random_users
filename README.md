@@ -4,5 +4,5 @@ ___
 Это может пригодиться, когда необходимо зарегистрировать на тестовой среде много пользователей, а своей фантазии не хватает.%)
 
 <p  align="left">  
-  <code><img width="50%" title="Lory_cat_chameleon" src="picture/lora.png"></code>
+  <code><img width="25%" title="Lory_cat_chameleon" src="picture/lora.png"></code>
 </p>
